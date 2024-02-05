@@ -39,7 +39,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: left;
-    height: 1600px;
+    height: 100%;
     max-width: 750px;
     padding: 32px;
     border-radius: 15px;
